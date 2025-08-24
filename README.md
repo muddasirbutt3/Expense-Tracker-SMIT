@@ -25,10 +25,10 @@ The app is also **mobile responsive**.
 
 ## Technologies Used
 
-- React.js  
+- React.js
 - CSS
 - JSX
-- LocalStorage API  
+- LocalStorage API
 
 ---
 
@@ -37,3 +37,15 @@ The app is also **mobile responsive**.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/expense-tracker.git
+2. Go to the project folder:
+   ```bash
+    cd expense-tracker
+3. Install dependencies:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm run dev
+5. Open your browser and go to:
+   ```bash
+   http://localhost:5173
